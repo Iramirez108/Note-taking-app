@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/Iramirez108/Note-taking-app#readme",
   "dependencies": {
-    "package-name": "^0.1.0"
-  }
+    "express": "^4.18.1",
+    "package-name": "^0.1.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.3.3"
+  },
+  "keywords": []
 }
